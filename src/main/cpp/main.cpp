@@ -34,6 +34,7 @@ void demo()
     }
 }
 #endif
+#include <csc232.h>
 
 int main()
 {
